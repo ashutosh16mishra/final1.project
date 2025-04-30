@@ -23,14 +23,6 @@ Since it's a front-end project using only HTML, CSS, and JavaScript:
 
 You don’t need a server or any special software to run it.
 
-4. Project Structure Example:
-
-   text-encryption-web-app
- index.html        # Main HTML file
- style.css         # App styling
- script.js         # Encryption/decryption logic
- README.md         # (Optional) Project description
-
  Dependencies and Configuration
 This is a pure front-end project built with:
 
