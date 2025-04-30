@@ -8,14 +8,11 @@ This project is a simple yet secure text encryption web application built using 
 1. Download or Clone the Repository:
 
 You can get the project files by either:
-Download ZIP: Click the "Download ZIP" button on the repository page and extract it to your preferred location.
-Git Clone(if using Git):
-git clone https://github.com/ashutosh16mishra/text-encryption-web-app.git`
+Download ZIP: Click the "Download ZIP" button on the repository page and extract it to your preferred location
+
 
 2. Navigate to the Project Folder
 Open the extracted/cloned folder:
-
-cd text-encryption-web-app
 
 
 3. Run the App :
